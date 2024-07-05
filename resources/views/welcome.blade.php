@@ -6,6 +6,19 @@
 
         <title>Laravel</title>
 
+        <!-- <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+        <script src="{{ asset('js/app.js') }}"></script>
+    </head>
+    <body>
+        <div class="container mt-4"> -->
+            <!-- BEGIN (write your solution here) -->
+           <!-- <a href="/about">About</a>
+            <a href="/articles">Articles</a> -->
+            <!-- END -->
+        <!-- </div>
+    </body>
+</html> -->
+
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
         <link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet" />
